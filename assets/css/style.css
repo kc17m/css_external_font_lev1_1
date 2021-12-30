@@ -1,0 +1,53 @@
+@font-face {
+    font-family: Island;
+    src: url("../fonts/Island_Moments/IslandMoments-Regular.ttf");
+}
+
+@font-face {
+    font-family: Pushster;
+    src: url("../fonts/Pushster/Pushster-Regular.ttf");
+}
+
+@font-face  {
+    font-family: Shizuru;
+    src: url("../fonts/Shizuru/Shizuru-Regular.ttf");
+
+}
+
+@font-face {
+    font-family: Vujahday;
+    src: url("../fonts/Vujahday_Script/VujahdayScript-Regular.ttf");
+}
+
+@font-face {
+    font-family: Nautigal;
+    src: url("../fonts/The_Nautigal/TheNautigal-Regular.ttf");
+}
+h1 {
+    font-family: Island;
+    background: grey;
+    padding: 20px 50px;
+    text-align: center;
+}
+
+p {
+    margin: 10px 20px;
+}
+
+main p {
+    font-family: Pushster;
+}
+
+aside p {
+    font-family: Shizuru;
+}
+
+nav p {
+    font-family: Vujahday;
+}
+
+footer p {
+    font-family: Nautigal;
+}
+
+
